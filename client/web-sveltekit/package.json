@@ -38,7 +38,7 @@
     "@storybook/testing-library": "0.2.0",
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/adapter-static": "^3.0.0",
-    "@sveltejs/kit": "^2.0.0",
+    "@sveltejs/kit": "^2.20.6",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "@testing-library/svelte": "^4.0.3",
     "@testing-library/user-event": "^14.4.3",
@@ -56,12 +56,12 @@
     "signale": "^1.4.0",
     "storybook": "^7.2.0",
     "storybook-dark-mode": "^3.0.1",
-    "svelte": "^4.1.1",
+    "svelte": "^4.2.19",
     "svelte-check": "^3.4.6",
     "tslib": "2.1.0",
-    "vite": "~5.0.0",
+    "vite": "~4.5.14",
     "vite-plugin-inspect": "^0.7.35",
-    "vitest": "^1.0.0"
+    "vitest": "^1.0.0-beta.5"
   },
   "type": "module",
   "dependencies": {
@@ -76,7 +76,7 @@
     "@sourcegraph/wildcard": "workspace:*",
     "@urql/core": "^4.2.3",
     "highlight.js": "^10.0.0",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "ts-key-enum": "^2.0.12",
     "wonka": "^6.3.4"
   },
